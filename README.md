@@ -46,6 +46,4 @@ No dashboard, a **Receita líquida (Net)** é calculada como:
 ## 📌 Observações
 
 - Este dashboard foi feito para ficar **diferente do arquivo de referência** do curso, mantendo a mesma base e a mesma lógica de negócio.
-=======
-# dashboard-vendas-xbox-excel
 
