@@ -1,4 +1,4 @@
-# Dashboard de Vendas do Xbox com Excel (Layout Alternativo)
+# # Desafio DIO: Dashboard de Vendas do Xbox com Excel
 
 Este projeto entrega um **dashboard de vendas/receita** para assinaturas do **Xbox Game Pass**, transformando dados brutos em indicadores e gráficos para apoiar análise e tomada de decisão.
 
@@ -46,4 +46,5 @@ No dashboard, a **Receita líquida (Net)** é calculada como:
 ## 📌 Observações
 
 - Este dashboard foi feito para ficar **diferente do arquivo de referência** do curso, mantendo a mesma base e a mesma lógica de negócio.
+
 
